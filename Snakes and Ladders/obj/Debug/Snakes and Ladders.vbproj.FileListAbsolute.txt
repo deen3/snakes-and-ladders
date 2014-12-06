@@ -1,0 +1,27 @@
+C:\Users\kienah\AppData\Local\Temporary Projects\Snakes and Ladders\bin\Debug\Snakes and Ladders.exe
+C:\Users\kienah\AppData\Local\Temporary Projects\Snakes and Ladders\bin\Debug\Snakes and Ladders.pdb
+C:\Users\kienah\AppData\Local\Temporary Projects\Snakes and Ladders\bin\Debug\Snakes and Ladders.xml
+C:\Users\kienah\AppData\Local\Temporary Projects\Snakes and Ladders\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kienah\AppData\Local\Temporary Projects\Snakes and Ladders\obj\Debug\Snakes_and_Ladders.welcome.resources
+C:\Users\kienah\AppData\Local\Temporary Projects\Snakes and Ladders\obj\Debug\Snakes_and_Ladders.Resources.resources
+C:\Users\kienah\AppData\Local\Temporary Projects\Snakes and Ladders\obj\Debug\Snakes and Ladders.vbproj.GenerateResource.Cache
+C:\Users\kienah\AppData\Local\Temporary Projects\Snakes and Ladders\obj\Debug\Snakes and Ladders.exe
+C:\Users\kienah\AppData\Local\Temporary Projects\Snakes and Ladders\obj\Debug\Snakes and Ladders.xml
+C:\Users\kienah\AppData\Local\Temporary Projects\Snakes and Ladders\obj\Debug\Snakes and Ladders.pdb
+C:\Users\kienah\AppData\Local\Temporary Projects\Snakes and Ladders\obj\Debug\Snakes_and_Ladders.Instructions.resources
+C:\Users\kienah\AppData\Local\Temporary Projects\Snakes and Ladders\obj\Debug\Snakes_and_Ladders.myMenu.resources
+C:\Users\kienah\AppData\Local\Temporary Projects\Snakes and Ladders\obj\Debug\Snakes_and_Ladders.Play.resources
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\obj\Debug\Snakes and Ladders.exe
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\obj\Debug\Snakes and Ladders.xml
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\obj\Debug\Snakes and Ladders.pdb
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\Debug\Snakes and Ladders.exe
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\Debug\Snakes and Ladders.pdb
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\Debug\Snakes and Ladders.xml
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\obj\Debug\Snakes_and_Ladders.welcome.resources
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\obj\Debug\Snakes_and_Ladders.Resources.resources
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\obj\Debug\Snakes and Ladders.vbproj.GenerateResource.Cache
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\obj\Debug\Snakes_and_Ladders.easyDual.resources
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\obj\Debug\Snakes_and_Ladders.Play.resources
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\obj\Debug\Snakes_and_Ladders.averageDual.resources
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\obj\Debug\Snakes_and_Ladders.hardDual.resources
